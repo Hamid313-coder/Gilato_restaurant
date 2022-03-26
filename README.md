@@ -1,2 +1,4 @@
 # Gilato_restaurant
-A Flutter mobile app wich gets the orders of the customers of the Gilato restaurant from inside and outside.
+Gilato restaurant flutter app is specially designed and created for the Gilato restaurant. This app gets the orders of the customers from inside of the restaurant. Also when some customers call to the restaurant to order something this app saves that orders and store them to the management system of the restaurant.
+ 
+![Screenshot_20210831-112146](https://user-images.githubusercontent.com/77102797/160226869-1e21edf1-36b2-4076-bf7e-d266f29b3f58.jpg)  ![1_350x600](https://user-images.githubusercontent.com/77102797/160226914-a4d8e1e8-fde8-49b3-8283-82f76f13ec4c.jpg)  ![2_350x600](https://user-images.githubusercontent.com/77102797/160226954-24a51eb1-12da-4464-abab-5526f4d270da.jpg)  ![3_350x600](https://user-images.githubusercontent.com/77102797/160226984-7fd63ebc-0959-4abe-b9d5-9a550ed8579d.jpg)
